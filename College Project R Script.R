@@ -1,3 +1,6 @@
+# The graphs generated in this R script can be found in the US-College-Data---Portfolio repository.
+
+
 install.packages("tidyverse")
 library(tidyverse)
 library(ggplot2)
